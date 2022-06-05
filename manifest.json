@@ -1,0 +1,18 @@
+{
+    "manifest_version":2,
+    "name": "Backend Changer",
+    "description": "this extension for change google background color",
+    "version": "1.0.0",
+    "icons":{
+        "16": "images/color-picker-16",
+        "48": "images/color-picker-64",
+        "128": "images/color-picker-128"
+    },
+    "page_action":{
+        "default_icon":{
+            "16": "images/color-picker-16",
+            "48": "images/color-picker-64",
+            "128": "images/color-picker-128"
+        }
+    }
+}
